@@ -1,0 +1,174 @@
+{
+  "uuid": "ac91331cb96fd147102a7b07fc58a760",
+  "path": "Offline/Nakuja Ignition",
+  "name": "Nakuja Ignition",
+  "content": "",
+  "created_at": "2021-02-19 11:14:34",
+  "updated_at": "2021-03-02 22:45:04",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "0c13f9c59d36ceb3ec96b8a1ba508dc4",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bbbbf21514e141c4b686e460bfbdc747": 1,
+        "d21c1b018e2a4c9eb1db81ab221beff3": 1,
+        "3c83fec4cc474eee8dfb2b68022a0646": 1,
+        "28342941eb2840fa9da0392f434ca724": 2,
+        "8c283e36c2194e51a1b8e11dd2ed9918": 1,
+        "c725faf026cc4d9daf3892ada698ae4a": 2,
+        "e148610e8db245b6a472dbcbe95fa8ae": 1,
+        "8634f249693541f58005402da9062be5": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "JSM1-12V-5",
+          1,
+          "RELAY-TH_JSM1-X12VX",
+          "K1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C148306",
+            "BOM_Manufacturer": "PANASONIC",
+            "BOM_Manufacturer Part": "JSM1-12V-5",
+            "puuid": "fba83b6e90c84411be7794d2c1e10be4",
+            "uuid": "3c83fec4cc474eee8dfb2b68022a0646"
+          }
+        ],
+        [
+          "BUZZER",
+          1,
+          "BUZZER-HOFFMANN",
+          "SG1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "61b6cc62f66149c791f4eae8c9aeddb1",
+            "uuid": "8c283e36c2194e51a1b8e11dd2ed9918"
+          }
+        ],
+        [
+          "8X8mm Latching Switch",
+          1,
+          "8*8MM_LATCHING_SWITCH",
+          "S1",
+          {
+            "BOM_Manufacturer Part": "New SchematicLib",
+            "puuid": "d085eec7a05444ed9b302796a19dbe9a",
+            "uuid": "8634f249693541f58005402da9062be5"
+          }
+        ],
+        [
+          "JST-2 COPY",
+          2,
+          "JST_XHT-2",
+          "U5,U3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "JST-s-PTH",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "f28bb8fadfef4132813b9947e82e97a4",
+            "uuid": "28342941eb2840fa9da0392f434ca724"
+          }
+        ],
+        [
+          "ATTINY85V-10P",
+          1,
+          "PDIP08_300MIL",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "63297db444a74589ad3cdd0cb12f974d",
+            "uuid": "bbbbf21514e141c4b686e460bfbdc747"
+          }
+        ],
+        [
+          "LED",
+          2,
+          "LED5MM-KIT",
+          "LED1,LED2",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "8408179d2216403ab0132fc59d8a29c4",
+            "uuid": "c725faf026cc4d9daf3892ada698ae4a"
+          }
+        ],
+        [
+          "sw 12*12*4",
+          1,
+          "SW",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "sw",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "8ac034786a1b45d2a7a51fc057d4efcf",
+            "uuid": "d21c1b018e2a4c9eb1db81ab221beff3"
+          }
+        ],
+        [
+          "TP4056",
+          1,
+          "TP4056",
+          "U6",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "8b2230eec1bc4e10a3aa12e201ef867c",
+            "uuid": "e148610e8db245b6a472dbcbe95fa8ae"
+          }
+        ]
+      ],
+      "updateTime": 1614714304,
+      "createTime": 1613748376,
+      "histories": [],
+      "created_at": "2021-02-19 18:26:16",
+      "updated_at": "2021-03-02 22:45:04"
+    },
+    {
+      "uuid": "574b66d8fa18961b19b26eedfc27f032",
+      "puuid": "ac91331cb96fd147102a7b07fc58a760",
+      "title": "PCB_2021-02-19_18-28-58",
+      "filename": "PCB_2021-02-19_18-28-58.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "8b2230eec1bc4e10a3aa12e201ef867c": 1,
+        "63297db444a74589ad3cdd0cb12f974d": 1,
+        "fba83b6e90c84411be7794d2c1e10be4": 1,
+        "8408179d2216403ab0132fc59d8a29c4": 2,
+        "61b6cc62f66149c791f4eae8c9aeddb1": 1,
+        "8ac034786a1b45d2a7a51fc057d4efcf": 1,
+        "f28bb8fadfef4132813b9947e82e97a4": 2,
+        "d085eec7a05444ed9b302796a19dbe9a": 1
+      },
+      "BOM": [],
+      "updateTime": 1614713975,
+      "createTime": 1613748538,
+      "histories": [],
+      "created_at": "2021-02-19 18:28:58",
+      "updated_at": "2021-03-02 22:39:35"
+    }
+  ],
+  "sort": [],
+  "title": "Nakuja Ignition",
+  "foldername": "Nakuja Ignition",
+  "schfilename": "Nakuja Ignition.json",
+  "schfilemtime": 1614714304506
+}
